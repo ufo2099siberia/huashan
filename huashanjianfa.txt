@@ -4,3 +4,4 @@
 大家好，我是令狐聪！
 为什么还是有权限呢
 this time should have not any permission!
+only test permission ok?
